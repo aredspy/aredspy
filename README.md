@@ -1,4 +1,12 @@
-### Hi there 👋
+### Heyo 👋
+
+- 👋 Hi, I’m @aredspy (also @sabre3)
+- 👀 I’m interested in offensive security and pentesting
+- 🔭 I’m currently working on updating my homelab setup and updating my github with all my projects
+- 🌱 I’m currently learning how to improve networking protocols and poking UDP sockets
+- 💞️ I’m looking to collaborate on P2P and decentral network projects and hacking IoT machines
+- 📫 How to reach me: Just yell lol (or email me at imm0013@auburn.edu)
+- 💬 Ask me about why I love and hate gpresult /h
 
 <!--
 **aredspy/aredspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
