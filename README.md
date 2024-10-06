@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-- 👋 Hi, I’m @aredspy (also @aredspyinthebase & @sabre3)
+- 👋 Hi, I’m @aredspy (also [aredspyinthebase](https://github.com/aredspyinthebase) & sabre3)
 - 👀 I’m interested in offensive security and pentesting
 - 🔭 I’m currently working on updating my homelab setup and updating my github with all my projects
 - 🌱 I’m currently learning how to improve networking protocols and poking UDP sockets
